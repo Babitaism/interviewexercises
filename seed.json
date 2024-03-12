@@ -1,0 +1,39 @@
+
+
+{
+
+    "data": [
+        {
+            "name": "TATA",
+             "cost": 300000,
+             "model": "NRG"
+        },
+        {
+            "name": "Volvogan",
+             "cost": 300000,
+             "model": "RGB"
+        },
+        {
+            "name": "MARUTI",
+             "cost": 300000,
+             "model": "800"
+        },
+        {
+            "name": "HONDA",
+             "cost": 500000,
+             "model": "I20"
+        },
+        {
+            "name": "AUDI",
+             "cost": 3000000,
+             "model": "TRF"
+        },
+        {
+            "name": "FERRAI",
+             "cost": 300000,
+             "model": "BBW"
+        }
+
+    ]
+
+}
